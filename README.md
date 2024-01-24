@@ -51,10 +51,18 @@ Completed
 
 <div align="center">
 
-![](static/diagrams/class-diagram-facebook-app.png)<br>
-![](static/diagrams/Use-Case-Diagram.png)<br>
+<h3>Slass Diagram</h3>
+
+![](static/diagrams/class-diagram-facebook-app.jpeg)
+
+<h3>Use Case Diagram</h3>
+
+![](static/diagrams/Use-Case-Diagram.png)
+
+<h3>Sequance Diagrams</h3>
+
 ![](static/diagrams/Sequance-Diagram-Find-Match.png)
-![](static/diagrams/Sequance-Diagram-Find-Things-In-Common.png)<br>
+![](static/diagrams/Sequance-Diagram-Find-Things-In-Common.png)
 
 </div>
 
