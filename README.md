@@ -1,4 +1,8 @@
-<div align="center">![](static/images/facebook-github-icon.png)</div>
+<div align="center">
+
+![](static/images/facebook-github-icon.png)
+
+</div>
 
 <h1 align="center">Facebook App</h1>
 <p align="center"><strong>Windows Edition - by Amit Cohen</strong>
@@ -47,10 +51,10 @@ Completed
 
 <div align="center">
 
-![](static/diagrams/class diagram facebook app.png)<br>
-![](static/diagrams/Use Case Diagram.png)<br>
-![](static/diagrams/Sequance Diagram Find Match.png)
-![](static/diagrams/Sequance Diagram Find Things In Common.png)<br>
+![](static/diagrams/class-diagram-facebook-app.png)<br>
+![](static/diagrams/Use-Case-Diagram.png)<br>
+![](static/diagrams/Sequance-Diagram-Find-Match.png)
+![](static/diagrams/Sequance-Diagram-Find-Things-In-Common.png)<br>
 
 </div>
 
