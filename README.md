@@ -1,6 +1,6 @@
 <div align="center">
 
-![](static/images/facebook-github-icon.png)
+![](static/images/facebook-github-logo.png)
 
 </div>
 
